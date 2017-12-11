@@ -1,0 +1,12 @@
+Die Partei 'Sonstige' hat einen Banzhaf-Index von 0.051587301587301584
+Die Partei 'CSU' hat einen Banzhaf-Index von 0.05952380952380952
+Die Partei 'Die Linke' hat einen Banzhaf-Index von 0.08333333333333333
+Die Partei 'Grüne' hat einen Banzhaf-Index von 0.08333333333333333
+Die Partei 'FDP' hat einen Banzhaf-Index von 0.10714285714285714
+Die Partei 'AfD' hat einen Banzhaf-Index von 0.12301587301587301
+Die Partei 'SPD' hat einen Banzhaf-Index von 0.1865079365079365
+Die Partei 'CDU' hat einen Banzhaf-Index von 0.3055555555555556
+
+Beruht auf Daten von: https://www.bundeswahlleiter.de/bundestagswahlen/2017/ergebnisse.html
+
+
